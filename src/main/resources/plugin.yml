@@ -1,0 +1,9 @@
+name: Spellcaster
+version: '${project.version}'
+main: me.pyra0.spellcaster.Spellcaster
+api-version: 1.19
+prefix: Spellcaster
+softdepend: [PlaceholderAPI]
+authors: [Pyra0]
+description: Custom plugin for my server (Spellcaster)
+website: github.com/Pyra0
